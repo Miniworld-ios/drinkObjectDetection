@@ -1,0 +1,19 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "5d07dd9b-7c11-4c8c-b3e2-506343162c2a": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Weights",
+            "name": "weights",
+            "path": "com.apple.CoreML/weights"
+        },
+        "739e4c6e-e3ec-4616-bdc7-2c9c551a2636": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "drinkModel.mlmodel",
+            "path": "com.apple.CoreML/drinkModel.mlmodel"
+        }
+    },
+    "rootModelIdentifier": "739e4c6e-e3ec-4616-bdc7-2c9c551a2636"
+}
+

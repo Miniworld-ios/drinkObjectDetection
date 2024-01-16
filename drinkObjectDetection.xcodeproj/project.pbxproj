@@ -13,6 +13,18 @@
 		B11CF3C32AEE763C00D16F44 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B11CF3C12AEE763C00D16F44 /* Main.storyboard */; };
 		B11CF3C52AEE763D00D16F44 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B11CF3C42AEE763D00D16F44 /* Assets.xcassets */; };
 		B11CF3C82AEE763D00D16F44 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B11CF3C62AEE763D00D16F44 /* LaunchScreen.storyboard */; };
+		B11CF3D12AEE76CE00D16F44 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B11CF3D02AEE76CE00D16F44 /* AVFoundation.framework */; };
+		B11CF3DB2AEE81EA00D16F44 /* drinkModel.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = B11CF3DA2AEE81EA00D16F44 /* drinkModel.mlmodel */; };
+		B1A8039D2B567095005294E7 /* 게토레이.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B1A8039C2B567095005294E7 /* 게토레이.mp3 */; };
+		B1A803A02B5670DB005294E7 /* 밀키스.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B1A8039E2B5670DB005294E7 /* 밀키스.mp3 */; };
+		B1A803A12B5670DB005294E7 /* 레쓰비.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B1A8039F2B5670DB005294E7 /* 레쓰비.mp3 */; };
+		B1A803A32B567102005294E7 /* 스프라이트.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B1A803A22B567102005294E7 /* 스프라이트.mp3 */; };
+		B1A803A62B567135005294E7 /* 코카콜라.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B1A803A42B567135005294E7 /* 코카콜라.mp3 */; };
+		B1A803A72B567135005294E7 /* 환타오렌지맛.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B1A803A52B567135005294E7 /* 환타오렌지맛.mp3 */; };
+		B1A803AC2B567195005294E7 /* 갈아만든배.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B1A803A82B567195005294E7 /* 갈아만든배.mp3 */; };
+		B1A803AD2B567195005294E7 /* 웰치스포도맛.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B1A803A92B567195005294E7 /* 웰치스포도맛.mp3 */; };
+		B1A803AE2B567195005294E7 /* 포카리스웨트.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B1A803AA2B567195005294E7 /* 포카리스웨트.mp3 */; };
+		B1A803AF2B567195005294E7 /* 잔치집식혜.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B1A803AB2B567195005294E7 /* 잔치집식혜.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +36,18 @@
 		B11CF3C42AEE763D00D16F44 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B11CF3C72AEE763D00D16F44 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B11CF3C92AEE763D00D16F44 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B11CF3D02AEE76CE00D16F44 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		B11CF3DA2AEE81EA00D16F44 /* drinkModel.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = drinkModel.mlmodel; path = Data/com.apple.CoreML/drinkModel.mlmodel; sourceTree = SOURCE_ROOT; };
+		B1A8039C2B567095005294E7 /* 게토레이.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "게토레이.mp3"; path = "../../../../Users/simjeongmin/Downloads/게토레이.mp3"; sourceTree = "<group>"; };
+		B1A8039E2B5670DB005294E7 /* 밀키스.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "밀키스.mp3"; path = "../../../../Users/simjeongmin/Downloads/밀키스.mp3"; sourceTree = "<group>"; };
+		B1A8039F2B5670DB005294E7 /* 레쓰비.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "레쓰비.mp3"; path = "../../../../Users/simjeongmin/Downloads/레쓰비.mp3"; sourceTree = "<group>"; };
+		B1A803A22B567102005294E7 /* 스프라이트.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "스프라이트.mp3"; path = "../../../../Users/simjeongmin/Downloads/스프라이트.mp3"; sourceTree = "<group>"; };
+		B1A803A42B567135005294E7 /* 코카콜라.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "코카콜라.mp3"; path = "../../../../Users/simjeongmin/Downloads/코카콜라.mp3"; sourceTree = "<group>"; };
+		B1A803A52B567135005294E7 /* 환타오렌지맛.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "환타오렌지맛.mp3"; path = "../../../../Users/simjeongmin/Downloads/환타오렌지맛.mp3"; sourceTree = "<group>"; };
+		B1A803A82B567195005294E7 /* 갈아만든배.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "갈아만든배.mp3"; path = "../../../../Users/simjeongmin/Downloads/갈아만든배.mp3"; sourceTree = "<group>"; };
+		B1A803A92B567195005294E7 /* 웰치스포도맛.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "웰치스포도맛.mp3"; path = "../../../../Users/simjeongmin/Downloads/웰치스포도맛.mp3"; sourceTree = "<group>"; };
+		B1A803AA2B567195005294E7 /* 포카리스웨트.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "포카리스웨트.mp3"; path = "../../../../Users/simjeongmin/Downloads/포카리스웨트.mp3"; sourceTree = "<group>"; };
+		B1A803AB2B567195005294E7 /* 잔치집식혜.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "잔치집식혜.mp3"; path = "../../../../Users/simjeongmin/Downloads/잔치집식혜.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +55,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B11CF3D12AEE76CE00D16F44 /* AVFoundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -42,6 +67,7 @@
 			children = (
 				B11CF3BA2AEE763C00D16F44 /* drinkObjectDetection */,
 				B11CF3B92AEE763C00D16F44 /* Products */,
+				B11CF3CF2AEE76CE00D16F44 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -59,12 +85,31 @@
 				B11CF3BB2AEE763C00D16F44 /* AppDelegate.swift */,
 				B11CF3BD2AEE763C00D16F44 /* SceneDelegate.swift */,
 				B11CF3BF2AEE763C00D16F44 /* ViewController.swift */,
+				B11CF3DA2AEE81EA00D16F44 /* drinkModel.mlmodel */,
+				B1A8039C2B567095005294E7 /* 게토레이.mp3 */,
+				B1A8039F2B5670DB005294E7 /* 레쓰비.mp3 */,
+				B1A8039E2B5670DB005294E7 /* 밀키스.mp3 */,
+				B1A803A22B567102005294E7 /* 스프라이트.mp3 */,
+				B1A803A42B567135005294E7 /* 코카콜라.mp3 */,
+				B1A803A52B567135005294E7 /* 환타오렌지맛.mp3 */,
+				B1A803AB2B567195005294E7 /* 잔치집식혜.mp3 */,
+				B1A803A82B567195005294E7 /* 갈아만든배.mp3 */,
+				B1A803A92B567195005294E7 /* 웰치스포도맛.mp3 */,
+				B1A803AA2B567195005294E7 /* 포카리스웨트.mp3 */,
 				B11CF3C12AEE763C00D16F44 /* Main.storyboard */,
 				B11CF3C42AEE763D00D16F44 /* Assets.xcassets */,
 				B11CF3C62AEE763D00D16F44 /* LaunchScreen.storyboard */,
 				B11CF3C92AEE763D00D16F44 /* Info.plist */,
 			);
 			path = drinkObjectDetection;
+			sourceTree = "<group>";
+		};
+		B11CF3CF2AEE76CE00D16F44 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				B11CF3D02AEE76CE00D16F44 /* AVFoundation.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +170,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B1A803A12B5670DB005294E7 /* 레쓰비.mp3 in Resources */,
+				B1A803AF2B567195005294E7 /* 잔치집식혜.mp3 in Resources */,
+				B1A8039D2B567095005294E7 /* 게토레이.mp3 in Resources */,
+				B1A803AC2B567195005294E7 /* 갈아만든배.mp3 in Resources */,
+				B1A803A72B567135005294E7 /* 환타오렌지맛.mp3 in Resources */,
+				B1A803A02B5670DB005294E7 /* 밀키스.mp3 in Resources */,
 				B11CF3C82AEE763D00D16F44 /* LaunchScreen.storyboard in Resources */,
+				B1A803A62B567135005294E7 /* 코카콜라.mp3 in Resources */,
 				B11CF3C52AEE763D00D16F44 /* Assets.xcassets in Resources */,
 				B11CF3C32AEE763C00D16F44 /* Main.storyboard in Resources */,
+				B1A803AE2B567195005294E7 /* 포카리스웨트.mp3 in Resources */,
+				B1A803A32B567102005294E7 /* 스프라이트.mp3 in Resources */,
+				B1A803AD2B567195005294E7 /* 웰치스포도맛.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,6 +193,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B11CF3DB2AEE81EA00D16F44 /* drinkModel.mlmodel in Sources */,
 				B11CF3C02AEE763C00D16F44 /* ViewController.swift in Sources */,
 				B11CF3BC2AEE763C00D16F44 /* AppDelegate.swift in Sources */,
 				B11CF3BE2AEE763C00D16F44 /* SceneDelegate.swift in Sources */,
@@ -300,7 +356,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.drinkObjectDetection;
+				PRODUCT_BUNDLE_IDENTIFIER = com.drinkObjectDetection22;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -328,7 +384,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.drinkObjectDetection;
+				PRODUCT_BUNDLE_IDENTIFIER = com.drinkObjectDetection22;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
